@@ -8,5 +8,7 @@ int main() {
 
     cout << "Nilai tanpa *: " << ptr<< endl;
     cout << "Nilai pakai *: " << *ptr<< endl;
+    cout << "Nilai &num: " << &num << endl;
+   
     return 0;
 }
