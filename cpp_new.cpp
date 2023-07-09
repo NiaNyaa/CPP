@@ -21,7 +21,7 @@ int main() {
     }
 
     // Menghapus memori yang dialokasikan
-    delete[] myArray;
+    delete[] myArray; // menggunakan new bisa menggunakan fungsi delete[]
 
     return 0;
 }
