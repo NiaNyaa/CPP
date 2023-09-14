@@ -18,3 +18,16 @@ int main(){
     cout << matriks[0][0];
     
 }
+
+/*
+    Penjelasan:
+    Elemen 1 berada di baris ke-0 dan kolom ke-0, sehingga koordinatnya adalah [0][0].
+    Elemen 2 berada di baris ke-0 dan kolom ke-1, sehingga koordinatnya adalah [0][1].
+    Elemen 3 berada di baris ke-0 dan kolom ke-2, sehingga koordinatnya adalah [0][2].
+    Elemen 4 berada di baris ke-1 dan kolom ke-0, sehingga koordinatnya adalah [1][0].
+    Elemen 5 berada di baris ke-1 dan kolom ke-1, sehingga koordinatnya adalah [1][1].
+    Elemen 6 berada di baris ke-1 dan kolom ke-2, sehingga koordinatnya adalah [1][2].
+    Elemen 7 berada di baris ke-2 dan kolom ke-0, sehingga koordinatnya adalah [2][0].
+    Elemen 8 berada di baris ke-2 dan kolom ke-1, sehingga koordinatnya adalah [2][1].
+    Elemen 9 berada di baris ke-2 dan kolom ke-2, sehingga koordinatnya adalah [2][2].
+*/
