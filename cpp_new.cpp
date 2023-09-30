@@ -25,3 +25,14 @@ int main() {
 
     return 0;
 }
+
+/*
+Analogi:
+dengan new:
+int* ptr = new int; // Membuat ember pointer dan memesan ember kosong untuk integer.
+*ptr = 42; // Memasukkan angka 42 ke dalam ember kosong tersebut melalui pointer.\
+
+tanpa new:
+int angka = 42; // Membuat ember berisi 42 secara langsung.
+int* ptr = &angka; // Membuat ember pointer dan menetapkannya untuk menunjuk ke ember berisi 42.
+*/
